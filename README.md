@@ -1,6 +1,38 @@
 CSS3 UISwitch
 =============
 
+## 2022 Update
+
+### What's New?
+* Updated UISwitch look and behavior (iOS 16 baseline)
+* Supports light/dark appearance
+
+<img src="uiswitch-light.gif" width="50" />
+<img src="uiswitch-dark.gif" width="50" />
+
+To apply the update, simply include **uiswitch.2022.css** in your .html file:
+```html
+<link rel="stylesheet" href="https://foxster-mp4.github.io/css3-uiswitch/css/uiswitch.2022.css">
+```
+
+To use css3-uiswitch in your HTML projects, include one of the following (see [Grab it](#grab-it) for more install options):
+
+* **uiswitch.css**
+```html
+<link rel="stylesheet" href="https://foxster-mp4.github.io/css3-uiswitch/css/uiswitch.css">
+```
+
+* **uiswitch.min.css**
+```html
+<link rel="stylesheet" href="https://foxster-mp4.github.io/css3-uiswitch/css/uiswitch.min.css">
+```
+
+<br>
+
+## Original Documentation 
+
+<br>
+
 [![npm](https://img.shields.io/npm/v/uiswitch.svg)](https://www.npmjs.com/package/uiswitch)
 [![npm](https://img.shields.io/npm/dm/uiswitch.svg)](https://www.npmjs.com/package/uiswitch)
 
