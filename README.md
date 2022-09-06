@@ -12,19 +12,19 @@ CSS3 UISwitch
 
 To apply the update, simply include **uiswitch.2022.css** in your .html file:
 ```html
-<link rel="stylesheet" href="https://foxster-mp4.github.io/css3-uiswitch/css/uiswitch.2022.css">
+<link rel="stylesheet" href="https://therealFoxster.github.io/css3-uiswitch/css/uiswitch.2022.css">
 ```
 
 To use css3-uiswitch in your HTML projects, include one of the following (see [Grab it](#grab-it) for more install options):
 
 * **uiswitch.css**
 ```html
-<link rel="stylesheet" href="https://foxster-mp4.github.io/css3-uiswitch/css/uiswitch.css">
+<link rel="stylesheet" href="https://therealFoxster.github.io/css3-uiswitch/css/uiswitch.css">
 ```
 
 * **uiswitch.min.css**
 ```html
-<link rel="stylesheet" href="https://foxster-mp4.github.io/css3-uiswitch/css/uiswitch.min.css">
+<link rel="stylesheet" href="https://therealFoxster.github.io/css3-uiswitch/css/uiswitch.min.css">
 ```
 
 <br>
