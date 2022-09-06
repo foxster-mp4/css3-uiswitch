@@ -1,5 +1,5 @@
 /*! uiswitch v1.1.0 | MIT License | github.com/fnky/css3-uiswitch */
-/* 2022 update by foxster.mp4 (github.com/foxster-mp4/css3-uiswitch) */
+/* 2022 update by foxster.mp4 (github.com/therealFoxster/css3-uiswitch) */
 
 .uiswitch { transition: background-color 0.35s !important; }
 .uiswitch::before { background-color: unset !important; }
